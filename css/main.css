@@ -34,6 +34,14 @@ small {
   text-align: center;
 }
 
+nav a {
+  color: white;
+}
+
+nav a:hover {
+  color: #cccccc;
+}
+
 @media only screen and (min-width: 60em) {
 
 img {
