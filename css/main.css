@@ -34,6 +34,10 @@ small {
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+}
+
 nav a {
   color: white;
 }
@@ -59,10 +63,5 @@ img {
 }
 
 .contact {
-  text-decoration: none;
-}
-
-
-a {
   text-decoration: none;
 }
