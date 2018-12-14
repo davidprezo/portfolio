@@ -1,0 +1,3 @@
+Sitemap: http://preseault.ca/sitemap.xml
+
+User-agent: *
